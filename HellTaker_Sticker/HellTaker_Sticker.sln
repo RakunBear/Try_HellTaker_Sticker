@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellTaker_Sticker", "HellTaker_Sticker.csproj", "{4061F71C-4F9E-4C98-86CC-93354876C2FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4061F71C-4F9E-4C98-86CC-93354876C2FE}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{4061F71C-4F9E-4C98-86CC-93354876C2FE}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{4061F71C-4F9E-4C98-86CC-93354876C2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4061F71C-4F9E-4C98-86CC-93354876C2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE66CC8F-AFD1-498C-8306-3B0D029166E2}
+	EndGlobalSection
+EndGlobal
